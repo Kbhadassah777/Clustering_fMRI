@@ -21,6 +21,9 @@ For Task 1:
 5.	Using Canny to find the boundaries.
 6.	Iterating through the contours and slicing respectively.
 7.	Saving the slices and ignoring the blank images
+
+
+
 For Task 2:
 1.	In Continuation to task 1, used the slices from previous task.
 2.	Before sending the slices through the algorithm, making HSV mattress of the image
