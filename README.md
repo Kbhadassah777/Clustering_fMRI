@@ -38,4 +38,3 @@ Thank you.
 
 Note for recruiters: Although I have done this project in Fall 2022, I didn’t know the importance of having an updated GitHub repo until I attended GHC 2023. I am pushing all my projects at once. I can provide the reports submitted to school if needed. Thank you for understanding.
 
-![image](https://github.com/Kbhadassah777/Clustering_fMRI/assets/98080207/2413f77b-9dc5-48d2-bc52-7fffe23dc58c)
