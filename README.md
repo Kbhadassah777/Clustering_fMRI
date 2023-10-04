@@ -1,7 +1,5 @@
 # Clustering_fMRI
 
-ReadMe:
-
 I executed this project as part of data mining subject in my 2nd semester of masters. I would like to put the problem statement and approach in STAR format.
 
 Situation: 
@@ -36,4 +34,5 @@ The code and pushes are also aligned with the tasks, make sure to run the test.p
 Thank you.
 
 
-Note for recruiters: Although I have done this project in Fall 2022, I didn’t know the importance of having an updated GitHub repo until I attended GHC 2023. I am pushing all my projects at once. I can provide the reports submitted to school if needed. Thank you for understanding.
+Note for recruiters: Although I have done this project in Fall 2022, I didn’t know the importance of having an updated GitHub repo until I attended GHC 2023. I am pushing all my projects at once. I can provide the reports submitted to school if needed. Thank you
+
