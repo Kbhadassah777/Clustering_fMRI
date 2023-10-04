@@ -28,7 +28,7 @@ For Task 2:
 3.	Then running the slices through DBSCAN.
 4.	Counting the clusters for each image and returning the number.
 Result:
- 	The respective files and code is being pushed. Not pushing the results as they are at least 2GB. Will push the dataset.
+ 	The respective files and code is being pushed.
 
 The code and pushes are also aligned with the tasks, make sure to run the test.py file.
 Thank you.
