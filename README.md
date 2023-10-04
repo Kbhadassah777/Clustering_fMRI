@@ -37,4 +37,3 @@ Thank you.
 
 
 Note for recruiters: Although I have done this project in Fall 2022, I didn’t know the importance of having an updated GitHub repo until I attended GHC 2023. I am pushing all my projects at once. I can provide the reports submitted to school if needed. Thank you for understanding.
-
