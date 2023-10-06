@@ -27,6 +27,7 @@ For Task 2:
 2.	Before sending the slices through the algorithm, making HSV mattress of the image
 3.	Then running the slices through DBSCAN.
 4.	Counting the clusters for each image and returning the number.
+   
 Result:
  	The respective files and code is being pushed.
 
