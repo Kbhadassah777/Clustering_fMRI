@@ -3,7 +3,7 @@
 I executed this project as part of data mining subject in my 2nd semester of masters. I would like to put the problem statement and approach in STAR format.
 
 Situation: 
-I was given a dataset with image on the resting state functional magnetic resonance imaging (rs-fMRI) scans. I was asked to read each image – find clusters in the image. This project is divided into two parts throughout the semester.
+I was given a dataset with image on the resting state functional magnetic resonance imaging (rs-fMRI) scans. I was asked to read each brain slice in image – find clusters in the image. This project is divided into two parts throughout the semester.
 Note: Worked on images ending with thresh
 
 Task:
